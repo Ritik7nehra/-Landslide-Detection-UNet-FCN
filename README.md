@@ -33,3 +33,5 @@ Install dependencies via:
 ```bash
 pip install -r requirements.txt
 
+## Dashboard 
+https://4ztevsguhezjgknjwwpr5n.streamlit.app/
