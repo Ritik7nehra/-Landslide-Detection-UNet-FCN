@@ -8,6 +8,9 @@ This repository contains a deep learning-based approach for **landslide detectio
 ## 🌍 Overview
 Traditional landslide detection methods are time-consuming and inefficient. This project leverages remote sensing and deep learning for automated, accurate, and scalable landslide prediction.
 
+## Dataset - 
+https://www.kaggle.com/datasets/niyarrbarman/landslide-divided?resource=download
+
 ## 🧠 Models Used
 - **U-Net:** Performs pixel-wise segmentation with high boundary accuracy.
 - **FCN:** Provides full-image segmentation for coarse detection.
