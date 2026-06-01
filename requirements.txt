@@ -5,6 +5,7 @@ opencv-python-headless>=4.8.0
 matplotlib>=3.7.0
 pandas>=2.0.0
 plotly>=5.18.0
+opencv-python-headless
 reportlab>=4.0.0
 tifffile>=2023.8.12
 # Optional for real model loading:
