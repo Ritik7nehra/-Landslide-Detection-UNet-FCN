@@ -28,10 +28,10 @@ https://www.kaggle.com/datasets/niyarrbarman/landslide-divided?resource=download
 - Deep learning segmentation using TensorFlow/Keras
 - Visualization of predicted landslide regions
 
+## Dashboard 
+https://4ztevsguhezjgknjwwpr5n.streamlit.app/
+
 ## 🧩 Requirements
 Install dependencies via:
 ```bash
 pip install -r requirements.txt
-
-## Dashboard 
-https://4ztevsguhezjgknjwwpr5n.streamlit.app/
